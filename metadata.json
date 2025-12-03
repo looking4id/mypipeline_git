@@ -1,0 +1,5 @@
+{
+  "name": "PipelineEditor（编辑代码源的界面很完美）",
+  "description": "A visual CI/CD pipeline editor allowing users to configure build stages, jobs, and sources similar to Gitee Go or Jenkins Blue Ocean.",
+  "requestFramePermissions": []
+}
